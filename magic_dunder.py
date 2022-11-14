@@ -48,4 +48,5 @@ print(e1.__repr__())
 print(e1.__str__())
 print(e1+e2)
 print(e1-e2)
+
 print(len(e1))
